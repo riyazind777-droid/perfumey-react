@@ -4,10 +4,10 @@ function Navbar() {
         <h1>Perfumy</h1>
 
         <ul>
-            <li><a>  Home | </a></li>
-            <li><a>Products |</a> </li>
-            <li><a>About |</a> </li>
-            <li><a>Contact |</a> </li>
+            <li><a href="/">  Home | </a></li>
+            <li><a href="/product">Products |</a> </li>
+            <li><a href="/About">About |</a> </li>
+            <li><a href="/Contact">Contact |</a> </li>
         </ul>
     </nav >)
 }
